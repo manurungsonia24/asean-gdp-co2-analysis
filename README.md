@@ -37,7 +37,7 @@ This shows a statistical relationship, not causation. Each country has only
 14 data points, and GDP is in current US$ (not adjusted for inflation).
 
 ## Files
-- `data/` cleaned CSV files
-- `sql/` table creation, join, and percentage-change queries
-- `excel/` workbook with correlations and charts
-- `summary.pdf` one-page summary
+- `gdp_asean.csv`, `co2_asean.csv`: cleaned data (11 ASEAN countries, 2010-2023)
+- `file_asean_co2_gdp.sql`: SQL queries (table creation, join, percentage change)
+- `asean_gdp_co2_project.xlsx`: Excel workbook with correlations and charts
+- `summary_asean_co2_gdp.pdf`: one-page summary
