@@ -34,6 +34,8 @@ English (US) when converting the data type.
 
 ![Scatter plot of GDP vs CO2 per capita by country](gdp_co2_scatter_plot.png)
 
+![Scatter plot of GDP vs CO2 per capita by country](co2_gdp_percentage.png)
+
 ## Limitations
 This shows a statistical relationship, not causation. Each country has only
 14 data points, and GDP is in current US$ (not adjusted for inflation).
