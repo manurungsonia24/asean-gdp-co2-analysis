@@ -32,6 +32,8 @@ English (US) when converting the data type.
   rose 45% from 2010 to 2023, while its CO2 per capita rose only 5%.
 - **Almost no relationship:** Brunei (0.09) and Singapore (0.01).
 
+![Scatter plot of GDP vs CO2 per capita by country](gdp_co2_scatter_plot.png)
+
 ![Scatter plot of GDP vs CO2 per capita by country](co2_gdp_percentage.png)
 
 ## Limitations
